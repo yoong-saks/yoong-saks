@@ -1,6 +1,4 @@
-<p align="center">
-  🧦
-</p>
+### 🧦 Merry digging
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/yoong-saks/git-main/main/tistory/rocket_1f680.png" style="height: 46px;"/>
